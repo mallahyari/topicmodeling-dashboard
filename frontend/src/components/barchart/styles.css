@@ -1,0 +1,8 @@
+.bar-tooltip {
+  transition: all 0.3s ease-out;
+  font-size: 11px;
+}
+
+.bar:hover {
+  fill: #684664;
+}

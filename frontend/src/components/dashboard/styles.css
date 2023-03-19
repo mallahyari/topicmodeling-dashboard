@@ -1,0 +1,9 @@
+.heatmap-tooltip {
+  transition: all 0.3s ease-out;
+  font-size: 11px;
+}
+
+.heatmap-rect:hover {
+  stroke: steelblue;
+  stroke-width: 2px;
+}
